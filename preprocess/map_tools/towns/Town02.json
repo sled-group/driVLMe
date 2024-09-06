@@ -1,0 +1,4253 @@
+{
+    "map": {
+        "adjacency": [
+            [
+                {
+                    "id": 1,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 34,
+                    "type": "concat"
+                },
+                {
+                    "id": 37,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 3,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 14,
+                    "type": "concat"
+                },
+                {
+                    "id": 65,
+                    "type": "concat"
+                },
+                {
+                    "id": 49,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 5,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 55,
+                    "type": "concat"
+                },
+                {
+                    "id": 54,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 7,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 22,
+                    "type": "concat"
+                },
+                {
+                    "id": 38,
+                    "type": "concat"
+                },
+                {
+                    "id": 70,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 9,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 80,
+                    "type": "concat"
+                },
+                {
+                    "id": 81,
+                    "type": "concat"
+                },
+                {
+                    "id": 73,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 11,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 21,
+                    "type": "concat"
+                },
+                {
+                    "id": 69,
+                    "type": "concat"
+                },
+                {
+                    "id": 68,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 13,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 29,
+                    "type": "concat"
+                },
+                {
+                    "id": 32,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 15,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 63,
+                    "type": "concat"
+                },
+                {
+                    "id": 66,
+                    "type": "concat"
+                },
+                {
+                    "id": 77,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 9,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 18,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 46,
+                    "type": "concat"
+                },
+                {
+                    "id": 84,
+                    "type": "concat"
+                },
+                {
+                    "id": 52,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 20,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 31,
+                    "type": "concat"
+                },
+                {
+                    "id": 30,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 15,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 23,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 43,
+                    "type": "concat"
+                },
+                {
+                    "id": 44,
+                    "type": "concat"
+                },
+                {
+                    "id": 40,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 25,
+                    "type": "concat"
+                },
+                {
+                    "id": 26,
+                    "type": "concat"
+                },
+                {
+                    "id": 27,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 74,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 20,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 28,
+                    "type": "concat"
+                },
+                {
+                    "id": 24,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 54,
+                    "type": "concat"
+                },
+                {
+                    "id": 55,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 30,
+                    "type": "concat"
+                },
+                {
+                    "id": 31,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 56,
+                    "type": "concat"
+                },
+                {
+                    "id": 87,
+                    "type": "concat"
+                },
+                {
+                    "id": 20,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 32,
+                    "type": "concat"
+                },
+                {
+                    "id": 29,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 17,
+                    "type": "concat"
+                },
+                {
+                    "id": 45,
+                    "type": "concat"
+                },
+                {
+                    "id": 13,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 3,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 35,
+                    "type": "concat"
+                },
+                {
+                    "id": 36,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 57,
+                    "type": "concat"
+                },
+                {
+                    "id": 60,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 37,
+                    "type": "concat"
+                },
+                {
+                    "id": 34,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 2,
+                    "type": "concat"
+                },
+                {
+                    "id": 50,
+                    "type": "concat"
+                },
+                {
+                    "id": 1,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 39,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 59,
+                    "type": "concat"
+                },
+                {
+                    "id": 58,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 41,
+                    "type": "concat"
+                },
+                {
+                    "id": 42,
+                    "type": "concat"
+                },
+                {
+                    "id": 23,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 70,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 39,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 18,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 13,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 40,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 47,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 82,
+                    "type": "concat"
+                },
+                {
+                    "id": 85,
+                    "type": "concat"
+                },
+                {
+                    "id": 64,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 49,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 0,
+                    "type": "concat"
+                },
+                {
+                    "id": 4,
+                    "type": "concat"
+                },
+                {
+                    "id": 3,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 5,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 52,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 61,
+                    "type": "concat"
+                },
+                {
+                    "id": 12,
+                    "type": "concat"
+                },
+                {
+                    "id": 18,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 1,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 33,
+                    "type": "concat"
+                },
+                {
+                    "id": 53,
+                    "type": "concat"
+                },
+                {
+                    "id": 5,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 24,
+                    "type": "concat"
+                },
+                {
+                    "id": 28,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 27,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 58,
+                    "type": "concat"
+                },
+                {
+                    "id": 59,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 86,
+                    "type": "concat"
+                },
+                {
+                    "id": 83,
+                    "type": "concat"
+                },
+                {
+                    "id": 39,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 60,
+                    "type": "concat"
+                },
+                {
+                    "id": 57,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 36,
+                    "type": "concat"
+                },
+                {
+                    "id": 35,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 40,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 27,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 64,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 51,
+                    "type": "concat"
+                },
+                {
+                    "id": 72,
+                    "type": "concat"
+                },
+                {
+                    "id": 47,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 68,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 67,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 62,
+                    "type": "concat"
+                },
+                {
+                    "id": 19,
+                    "type": "concat"
+                },
+                {
+                    "id": 74,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 6,
+                    "type": "concat"
+                },
+                {
+                    "id": 16,
+                    "type": "concat"
+                },
+                {
+                    "id": 11,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 49,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 71,
+                    "type": "concat"
+                },
+                {
+                    "id": 8,
+                    "type": "concat"
+                },
+                {
+                    "id": 7,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 11,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 73,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 79,
+                    "type": "concat"
+                },
+                {
+                    "id": 10,
+                    "type": "concat"
+                },
+                {
+                    "id": 9,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 75,
+                    "type": "concat"
+                },
+                {
+                    "id": 76,
+                    "type": "concat"
+                },
+                {
+                    "id": 67,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 64,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 77,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 48,
+                    "type": "concat"
+                },
+                {
+                    "id": 78,
+                    "type": "concat"
+                },
+                {
+                    "id": 15,
+                    "type": "uturn"
+                }
+            ],
+            [
+                {
+                    "id": 68,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 7,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 52,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 47,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 77,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 70,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 73,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 67,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 23,
+                    "type": "concat"
+                }
+            ],
+            [
+                {
+                    "id": 74,
+                    "type": "concat"
+                }
+            ]
+        ],
+        "directed": true,
+        "graph": [],
+        "multigraph": false,
+        "nodes": [
+            {
+                "end": {
+                    "location": {
+                        "x": 18.02309226989746,
+                        "y": 187.5605010986328,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 0,
+                "length": 14.62217674696565,
+                "opendriveid": {
+                    "junction_id": 400,
+                    "lane_id": 1,
+                    "road_id": 447
+                },
+                "start": {
+                    "location": {
+                        "x": -3.455665111541748,
+                        "y": 181.2395782470703,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -90.01290893554688
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 45.85104751586914,
+                        "y": 201.4980010986328,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.00496673583984
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 1,
+                "length": 37.58831657302631,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 1
+                },
+                "start": {
+                    "location": {
+                        "x": -3.3600046634674072,
+                        "y": 117.56449127197266,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.87117767333984
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": -7.459002494812012,
+                        "y": 166.45899963378906,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98706817626953
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 2,
+                "length": 14.78148981824938,
+                "opendriveid": {
+                    "junction_id": 400,
+                    "lane_id": 1,
+                    "road_id": 437
+                },
+                "start": {
+                    "location": {
+                        "x": 3.3990821838378906,
+                        "y": 191.55380249023438,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.026275634765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": -7.459394931793213,
+                        "y": 164.72198486328125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98706817626953
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 3,
+                "length": 14.781489818249405,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 4
+                },
+                "start": {
+                    "location": {
+                        "x": 34.69908142089844,
+                        "y": 191.56814575195312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 18.765331268310547,
+                        "y": 187.56085205078125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 4,
+                "length": 15.364416055189505,
+                "opendriveid": {
+                    "junction_id": 400,
+                    "lane_id": 1,
+                    "road_id": 433
+                },
+                "start": {
+                    "location": {
+                        "x": -7.451601028442383,
+                        "y": 199.24049377441406,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98706817626953
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 45.85700225830078,
+                        "y": 232.46258544921875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -92.10279846191406
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 5,
+                "length": 14.456605497204471,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 0
+                },
+                "start": {
+                    "location": {
+                        "x": -7.369997501373291,
+                        "y": 294.7031555175781,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.90901947021484
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 101.25907135009766,
+                        "y": 191.59866333007812,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 6,
+                "length": 26.640000000000047,
+                "opendriveid": {
+                    "junction_id": 298,
+                    "lane_id": -1,
+                    "road_id": 342
+                },
+                "start": {
+                    "location": {
+                        "x": 145.09906005859375,
+                        "y": 191.61874389648438,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 107.65907287597656,
+                        "y": 191.60159301757812,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 7,
+                "length": 17.51999999999999,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 6
+                },
+                "start": {
+                    "location": {
+                        "x": 182.5390625,
+                        "y": 191.6359100341797,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 162.7023468017578,
+                        "y": 187.62681579589844,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 8,
+                "length": 17.60144065465437,
+                "opendriveid": {
+                    "junction_id": 298,
+                    "lane_id": 1,
+                    "road_id": 317
+                },
+                "start": {
+                    "location": {
+                        "x": 132.1503143310547,
+                        "y": 199.15798950195312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 90.0580825805664
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 158.51947021484375,
+                        "y": 187.62489318847656,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 9,
+                "length": 13.418559345345596,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 9
+                },
+                "start": {
+                    "location": {
+                        "x": 132.11886596679688,
+                        "y": 230.17796325683594,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 90.0580825805664
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 136.1324462890625,
+                        "y": 216.7895965576172,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.9419174194336
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 10,
+                "length": 4.235141598513204,
+                "opendriveid": {
+                    "junction_id": 298,
+                    "lane_id": -1,
+                    "road_id": 308
+                },
+                "start": {
+                    "location": {
+                        "x": 123.18090057373047,
+                        "y": 187.60870361328125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.97372436523438
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 118.20094299316406,
+                        "y": 240.9153289794922,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 11,
+                "length": 6.777854401117998,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 5
+                },
+                "start": {
+                    "location": {
+                        "x": 52.70090866088867,
+                        "y": 187.57640075683594,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 167.1720733642578,
+                        "y": 240.945068359375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 12,
+                "length": 15.346718426827373,
+                "opendriveid": {
+                    "junction_id": 20,
+                    "lane_id": 1,
+                    "road_id": 55
+                },
+                "start": {
+                    "location": {
+                        "x": 189.699462890625,
+                        "y": 248.35044860839844,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98705291748047
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 151.63551330566406,
+                        "y": 240.93563842773438,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 13,
+                "length": 30.883281573172592,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 13
+                },
+                "start": {
+                    "location": {
+                        "x": 189.6699981689453,
+                        "y": 294.57861328125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 90.03919219970703
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 19.022356033325195,
+                        "y": 191.5609588623047,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 14,
+                "length": 0.053449379039573586,
+                "opendriveid": {
+                    "junction_id": 188,
+                    "lane_id": -1,
+                    "road_id": 232
+                },
+                "start": {
+                    "location": {
+                        "x": 41.85084533691406,
+                        "y": 199.21017456054688,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -270.00494384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 21.995805740356445,
+                        "y": 191.5623321533203,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 15,
+                "length": 18.5967246895198,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 8
+                },
+                "start": {
+                    "location": {
+                        "x": 41.85331344604492,
+                        "y": 227.59017944335938,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.99503326416016
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 105.56307983398438,
+                        "y": 191.6006317138672,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 16,
+                "length": 35.24801238408734,
+                "opendriveid": {
+                    "junction_id": 298,
+                    "lane_id": -1,
+                    "road_id": 301
+                },
+                "start": {
+                    "location": {
+                        "x": 132.1503143310547,
+                        "y": 199.15798950195312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -269.94189453125
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 193.6909637451172,
+                        "y": 263.9236145019531,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.96080780029297
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 17,
+                "length": 15.085505078767124,
+                "opendriveid": {
+                    "junction_id": 20,
+                    "lane_id": -1,
+                    "road_id": 47
+                },
+                "start": {
+                    "location": {
+                        "x": 182.52122497558594,
+                        "y": 236.95437622070312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96519470214844
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 193.6852264404297,
+                        "y": 272.3191223144531,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.96080780029297
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 18,
+                "length": 17.277752539383563,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 10
+                },
+                "start": {
+                    "location": {
+                        "x": 142.98123168945312,
+                        "y": 236.93038940429688,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96519470214844
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 41.857933044433594,
+                        "y": 280.7930908203125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.99503326416016
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 19,
+                "length": 15.167094744533781,
+                "opendriveid": {
+                    "junction_id": 349,
+                    "lane_id": 1,
+                    "road_id": 351
+                },
+                "start": {
+                    "location": {
+                        "x": 52.65930938720703,
+                        "y": 306.5313720703125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0194244384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 34.132850646972656,
+                        "y": 191.56788635253906,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 20,
+                "length": 97.42627720906431,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 19
+                },
+                "start": {
+                    "location": {
+                        "x": 180.82273864746094,
+                        "y": 306.5,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -0.07871776074171066
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 68.10969543457031,
+                        "y": 187.58346557617188,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 21,
+                "length": 15.408788966851628,
+                "opendriveid": {
+                    "junction_id": 188,
+                    "lane_id": 1,
+                    "road_id": 224
+                },
+                "start": {
+                    "location": {
+                        "x": 41.85084533691406,
+                        "y": 199.21017456054688,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -270.00494384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 166.9954833984375,
+                        "y": 191.6287841796875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 22,
+                "length": 6.35280691731516,
+                "opendriveid": {
+                    "junction_id": 242,
+                    "lane_id": -1,
+                    "road_id": 283
+                },
+                "start": {
+                    "location": {
+                        "x": 189.68832397460938,
+                        "y": 199.0904541015625,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -270.012939453125
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 166.82266235351562,
+                        "y": 191.6287078857422,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 23,
+                "length": 21.723596541342438,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 14
+                },
+                "start": {
+                    "location": {
+                        "x": 189.6953887939453,
+                        "y": 230.35044860839844,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98705291748047
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": -7.391927719116211,
+                        "y": 280.89337158203125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.90901947021484
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 24,
+                "length": 16.23020605720893,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 18
+                },
+                "start": {
+                    "location": {
+                        "x": 34.661354064941406,
+                        "y": 306.5395202636719,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -0.039054833352565765
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 19.423593521118164,
+                        "y": 306.5498962402344,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -0.039054833352565765
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 25,
+                "length": 0.4355327321404392,
+                "opendriveid": {
+                    "junction_id": 349,
+                    "lane_id": -1,
+                    "road_id": 390
+                },
+                "start": {
+                    "location": {
+                        "x": 45.8592529296875,
+                        "y": 295.9598083496094,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -450.00494384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 16.661359786987305,
+                        "y": 306.5517883300781,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -0.039054833352565765
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 26,
+                "length": 5.9599999999999635,
+                "opendriveid": {
+                    "junction_id": 349,
+                    "lane_id": -1,
+                    "road_id": 383
+                },
+                "start": {
+                    "location": {
+                        "x": 52.65930938720703,
+                        "y": 306.5313720703125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -359.9805603027344
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 64.70066833496094,
+                        "y": 302.53546142578125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.01942443847656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 27,
+                "length": 12.040000000000003,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 18
+                },
+                "start": {
+                    "location": {
+                        "x": 4.618636608123779,
+                        "y": 302.55999755859375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 179.96095275878906
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 20.84883689880371,
+                        "y": 302.5489196777344,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 179.96095275878906
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 28,
+                "length": 2.1316282072803006e-14,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 2
+                },
+                "start": {
+                    "location": {
+                        "x": -3.370001792907715,
+                        "y": 294.6971435546875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.09098052978516
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 189.6811981201172,
+                        "y": 278.21258544921875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 90.03919219970703
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 29,
+                "length": 2.1316282072803006e-14,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 17
+                },
+                "start": {
+                    "location": {
+                        "x": 180.8175811767578,
+                        "y": 302.5,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 179.91925048828125
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 132.30149841308594,
+                        "y": 240.92388916015625,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -359.96514892578125
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 30,
+                "length": 10.677285366675402,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 19
+                },
+                "start": {
+                    "location": {
+                        "x": 52.660667419433594,
+                        "y": 302.5313720703125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.01942443847656
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 164.4567108154297,
+                        "y": 306.5224914550781,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -0.07871776074171066
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 31,
+                "length": 111.79400379350277,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 17
+                },
+                "start": {
+                    "location": {
+                        "x": 193.6699981689453,
+                        "y": 294.58135986328125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 270.0391845703125
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 150.9588165283203,
+                        "y": 306.5410461425781,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -0.07871776074171066
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 32,
+                "length": 52.06609284961508,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 13
+                },
+                "start": {
+                    "location": {
+                        "x": 193.699462890625,
+                        "y": 248.34954833984375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.01294708251953
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": -3.448136806488037,
+                        "y": 214.5811767578125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.01293182373047
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 33,
+                "length": 64.77678835119694,
+                "opendriveid": {
+                    "junction_id": 400,
+                    "lane_id": -1,
+                    "road_id": 426
+                },
+                "start": {
+                    "location": {
+                        "x": 3.3990824222564697,
+                        "y": 191.55380249023438,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": -3.3960583209991455,
+                        "y": 133.6011199951172,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.87117767333984
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 34,
+                "length": 31.606839503832102,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 16
+                },
+                "start": {
+                    "location": {
+                        "x": 4.806909561157227,
+                        "y": 109.54998016357422,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -0.2088356614112854
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 46.17711639404297,
+                        "y": 234.02931213378906,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -110.992431640625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 35,
+                "length": 12.190860538854388,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 12
+                },
+                "start": {
+                    "location": {
+                        "x": 181.50135803222656,
+                        "y": 109.41999816894531,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 359.9610595703125
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 20.829334259033203,
+                        "y": 105.49211120605469,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 179.79315185546875
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 36,
+                "length": 160.66365892624862,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 16
+                },
+                "start": {
+                    "location": {
+                        "x": -7.359994888305664,
+                        "y": 117.55550384521484,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 90.12882232666016
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 52.444576263427734,
+                        "y": 105.39226531982422,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96102905273438
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 37,
+                "length": 129.0568194224165,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 1
+                },
+                "start": {
+                    "location": {
+                        "x": -7.455665111541748,
+                        "y": 181.24049377441406,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98706817626953
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 167.02548217773438,
+                        "y": 191.62879943847656,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 38,
+                "length": 6.412822397176873,
+                "opendriveid": {
+                    "junction_id": 242,
+                    "lane_id": -1,
+                    "road_id": 252
+                },
+                "start": {
+                    "location": {
+                        "x": 193.6842498779297,
+                        "y": 181.08953857421875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -450.0129089355469
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 135.03262329101562,
+                        "y": 191.6141357421875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 39,
+                "length": 51.16649089959627,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 15
+                },
+                "start": {
+                    "location": {
+                        "x": 193.739990234375,
+                        "y": 118.07272338867188,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.92216491699219
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 193.6925506591797,
+                        "y": 261.6113586425781,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.96080780029297
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 40,
+                "length": 1.7100000000000257,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 14
+                },
+                "start": {
+                    "location": {
+                        "x": 193.68832397460938,
+                        "y": 199.08953857421875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.01294708251953
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 193.6918182373047,
+                        "y": 214.54080200195312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.01294708251953
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 41,
+                "length": 0.35745565335702345,
+                "opendriveid": {
+                    "junction_id": 242,
+                    "lane_id": -1,
+                    "road_id": 290
+                },
+                "start": {
+                    "location": {
+                        "x": 182.5408935546875,
+                        "y": 187.6359100341797,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.97372436523438
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 193.69239807128906,
+                        "y": 217.08953857421875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.01294708251953
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 42,
+                "length": 4.740000000000011,
+                "opendriveid": {
+                    "junction_id": 242,
+                    "lane_id": -1,
+                    "road_id": 276
+                },
+                "start": {
+                    "location": {
+                        "x": 193.6842498779297,
+                        "y": 181.08953857421875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -450.0129089355469
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 189.6920166015625,
+                        "y": 215.4054412841797,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98705291748047
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 43,
+                "length": 14.945002708896425,
+                "opendriveid": {
+                    "junction_id": 20,
+                    "lane_id": 1,
+                    "road_id": 68
+                },
+                "start": {
+                    "location": {
+                        "x": 182.52122497558594,
+                        "y": 236.9543914794922,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -179.96517944335938
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 189.69131469726562,
+                        "y": 212.35044860839844,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98705291748047
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 44,
+                "length": 17.99999999999998,
+                "opendriveid": {
+                    "junction_id": 20,
+                    "lane_id": 1,
+                    "road_id": 31
+                },
+                "start": {
+                    "location": {
+                        "x": 189.699462890625,
+                        "y": 248.35044860839844,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98705291748047
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 193.68930053710938,
+                        "y": 266.35137939453125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.96080780029297
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 45,
+                "length": 10.230000000000011,
+                "opendriveid": {
+                    "junction_id": 20,
+                    "lane_id": -1,
+                    "road_id": 32
+                },
+                "start": {
+                    "location": {
+                        "x": 193.6953887939453,
+                        "y": 230.3495330810547,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.01294708251953
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 160.98123168945312,
+                        "y": 236.94131469726562,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96519470214844
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 46,
+                "length": 3.5400000000000205,
+                "opendriveid": {
+                    "junction_id": 132,
+                    "lane_id": -1,
+                    "road_id": 177
+                },
+                "start": {
+                    "location": {
+                        "x": 124.9812240600586,
+                        "y": 236.91944885253906,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -539.9651489257812
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 193.6616973876953,
+                        "y": 245.32199096679688,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -95.06673431396484
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 47,
+                "length": 67.40775253938358,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 11
+                },
+                "start": {
+                    "location": {
+                        "x": 54.72123718261719,
+                        "y": 236.8767852783203,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96519470214844
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 45.85219192504883,
+                        "y": 214.67965698242188,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.00496673583984
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 48,
+                "length": 2.559626464505751,
+                "opendriveid": {
+                    "junction_id": 188,
+                    "lane_id": -1,
+                    "road_id": 236
+                },
+                "start": {
+                    "location": {
+                        "x": 34.70091247558594,
+                        "y": 187.56814575195312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.97372436523438
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 45.85222244262695,
+                        "y": 215.04002380371094,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.00496673583984
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 49,
+                "length": 12.549813232252884,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 4
+                },
+                "start": {
+                    "location": {
+                        "x": 3.4009156227111816,
+                        "y": 187.55380249023438,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": -7.459729194641113,
+                        "y": 163.24049377441406,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98706817626953
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 50,
+                "length": 17.99999999999997,
+                "opendriveid": {
+                    "junction_id": 400,
+                    "lane_id": 1,
+                    "road_id": 411
+                },
+                "start": {
+                    "location": {
+                        "x": -7.451601028442383,
+                        "y": 199.24049377441406,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98706817626953
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 106.97879791259766,
+                        "y": 240.9085235595703,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 51,
+                "length": 17.99999999999998,
+                "opendriveid": {
+                    "junction_id": 132,
+                    "lane_id": 1,
+                    "road_id": 178
+                },
+                "start": {
+                    "location": {
+                        "x": 142.97879028320312,
+                        "y": 240.9303741455078,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -359.96514892578125
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 103.43880462646484,
+                        "y": 240.9063720703125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 52,
+                "length": 21.539999999999992,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 10
+                },
+                "start": {
+                    "location": {
+                        "x": 182.51878356933594,
+                        "y": 240.9543914794922,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": -3.4475364685058594,
+                        "y": 217.2395782470703,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.01293182373047
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 53,
+                "length": 59.46000000000002,
+                "opendriveid": {
+                    "junction_id": 400,
+                    "lane_id": -1,
+                    "road_id": 412
+                },
+                "start": {
+                    "location": {
+                        "x": -3.455665111541748,
+                        "y": 181.2395782470703,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.01293182373047
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 83.85045623779297,
+                        "y": 302.54193115234375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.01942443847656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 54,
+                "length": 64.2702060572089,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 0
+                },
+                "start": {
+                    "location": {
+                        "x": -3.4516005516052246,
+                        "y": 199.2395782470703,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.01293182373047
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": -7.395771503448486,
+                        "y": 278.47296142578125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.90901947021484
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 55,
+                "length": 16.230206057208903,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 2
+                },
+                "start": {
+                    "location": {
+                        "x": 4.621363162994385,
+                        "y": 306.55999755859375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 359.9609375
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 70.6606674194336,
+                        "y": 302.5374755859375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.01942443847656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 56,
+                "length": 17.999999999999968,
+                "opendriveid": {
+                    "junction_id": 349,
+                    "lane_id": 1,
+                    "road_id": 384
+                },
+                "start": {
+                    "location": {
+                        "x": 34.65863037109375,
+                        "y": 302.5395202636719,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -180.03903198242188
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 164.94569396972656,
+                        "y": 109.43124389648438,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 359.9610595703125
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 57,
+                "length": 2.1316282072803006e-14,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 3
+                },
+                "start": {
+                    "location": {
+                        "x": 189.739990234375,
+                        "y": 118.06687927246094,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 90.07781982421875
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 135.03428649902344,
+                        "y": 109.44844055175781,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.038970947265625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 58,
+                "length": 46.46436913451183,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 15
+                },
+                "start": {
+                    "location": {
+                        "x": 189.6842498779297,
+                        "y": 181.0904541015625,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98705291748047
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 193.71749877929688,
+                        "y": 134.6283721923828,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.92216491699219
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 59,
+                "length": 46.46436913451185,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 3
+                },
+                "start": {
+                    "location": {
+                        "x": 181.49864196777344,
+                        "y": 105.41999816894531,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 179.96109008789062
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 100.92805480957031,
+                        "y": 191.5985107421875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 60,
+                "length": 128.4713322568801,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 12
+                },
+                "start": {
+                    "location": {
+                        "x": 4.792778968811035,
+                        "y": 105.55001068115234,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 179.79315185546875
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 167.55783081054688,
+                        "y": 240.9453125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 61,
+                "length": 14.960956201350548,
+                "opendriveid": {
+                    "junction_id": 20,
+                    "lane_id": 1,
+                    "road_id": 62
+                },
+                "start": {
+                    "location": {
+                        "x": 193.6953887939453,
+                        "y": 230.3495330810547,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -90.012939453125
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 41.857913970947266,
+                        "y": 280.5950927734375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.99503326416016
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 62,
+                "length": 15.365093500587417,
+                "opendriveid": {
+                    "junction_id": 349,
+                    "lane_id": 1,
+                    "road_id": 385
+                },
+                "start": {
+                    "location": {
+                        "x": 34.65863037109375,
+                        "y": 302.5395202636719,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -180.03903198242188
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 41.8517951965332,
+                        "y": 210.10769653320312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.99503326416016
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 63,
+                "length": 17.482484157606674,
+                "opendriveid": {
+                    "junction_id": 76,
+                    "lane_id": 1,
+                    "road_id": 131
+                },
+                "start": {
+                    "location": {
+                        "x": 54.7183837890625,
+                        "y": 240.8767852783203,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 25.978288650512695,
+                        "y": 191.56414794921875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 64,
+                "length": 22.57920884712644,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 11
+                },
+                "start": {
+                    "location": {
+                        "x": 124.97879791259766,
+                        "y": 240.91944885253906,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 16.699079513549805,
+                        "y": 191.55990600585938,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 65,
+                "length": 4.699999999999976,
+                "opendriveid": {
+                    "junction_id": 188,
+                    "lane_id": -1,
+                    "road_id": 199
+                },
+                "start": {
+                    "location": {
+                        "x": 52.69907760620117,
+                        "y": 191.57640075683594,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -359.97369384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 41.8515510559082,
+                        "y": 207.28018188476562,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.99503326416016
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 66,
+                "length": 20.309999999999974,
+                "opendriveid": {
+                    "junction_id": 76,
+                    "lane_id": 1,
+                    "road_id": 92
+                },
+                "start": {
+                    "location": {
+                        "x": 41.85507583618164,
+                        "y": 247.90017700195312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.99503326416016
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 41.85090255737305,
+                        "y": 199.84017944335938,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.99503326416016
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 67,
+                "length": 27.749999999999993,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 7
+                },
+                "start": {
+                    "location": {
+                        "x": 41.859249114990234,
+                        "y": 295.9601745605469,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.99503326416016
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 61.880088806152344,
+                        "y": 236.88113403320312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96519470214844
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 68,
+                "length": 7.378854158727229,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 5
+                },
+                "start": {
+                    "location": {
+                        "x": 123.1790771484375,
+                        "y": 191.60870361328125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 70.7009048461914,
+                        "y": 187.58465576171875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 69,
+                "length": 17.99999999999997,
+                "opendriveid": {
+                    "junction_id": 188,
+                    "lane_id": 1,
+                    "road_id": 200
+                },
+                "start": {
+                    "location": {
+                        "x": 34.70091247558594,
+                        "y": 187.56814575195312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -179.97369384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 189.68434143066406,
+                        "y": 159.03077697753906,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 90.07783508300781
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 70,
+                "length": 22.056515066644735,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": 1,
+                    "road_id": 6
+                },
+                "start": {
+                    "location": {
+                        "x": 145.1009063720703,
+                        "y": 187.61874389648438,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 167.02090454101562,
+                        "y": 187.6287841796875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 71,
+                "length": 21.91999999999996,
+                "opendriveid": {
+                    "junction_id": 298,
+                    "lane_id": 1,
+                    "road_id": 341
+                },
+                "start": {
+                    "location": {
+                        "x": 123.18090057373047,
+                        "y": 187.60870361328125,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.02626037597656
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 109.92422485351562,
+                        "y": 240.91030883789062,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 72,
+                "length": 15.0545747996254,
+                "opendriveid": {
+                    "junction_id": 132,
+                    "lane_id": 1,
+                    "road_id": 134
+                },
+                "start": {
+                    "location": {
+                        "x": 136.11886596679688,
+                        "y": 230.18202209472656,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -89.94189453125
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 109.01337432861328,
+                        "y": 240.90975952148438,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 0.0348052978515625
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 73,
+                "length": 15.054574799625422,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 9
+                },
+                "start": {
+                    "location": {
+                        "x": 136.1503143310547,
+                        "y": 199.1620330810547,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.9419174194336
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 1.4932608604431152,
+                        "y": 306.37567138671875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 370.1837463378906
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 74,
+                "length": 45.27776636607022,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 7
+                },
+                "start": {
+                    "location": {
+                        "x": 45.85507583618164,
+                        "y": 247.8998260498047,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.00496673583984
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 45.85655212402344,
+                        "y": 264.9038391113281,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.00496673583984
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 75,
+                "length": 14.051913069767295,
+                "opendriveid": {
+                    "junction_id": 76,
+                    "lane_id": -1,
+                    "road_id": 107
+                },
+                "start": {
+                    "location": {
+                        "x": 54.71881103515625,
+                        "y": 240.8767852783203,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -359.9651794433594
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 45.85683822631836,
+                        "y": 268.2098083496094,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.00496673583984
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 76,
+                "length": 7.440000000000026,
+                "opendriveid": {
+                    "junction_id": 76,
+                    "lane_id": -1,
+                    "road_id": 93
+                },
+                "start": {
+                    "location": {
+                        "x": 45.85331344604492,
+                        "y": 227.58984375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.00496673583984
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 63.69886016845703,
+                        "y": 236.88223266601562,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96519470214844
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 77,
+                "length": 32.90237620976214,
+                "opendriveid": {
+                    "junction_id": 0,
+                    "lane_id": -1,
+                    "road_id": 8
+                },
+                "start": {
+                    "location": {
+                        "x": 45.85084915161133,
+                        "y": 199.2098388671875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.00496673583984
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 45.85219955444336,
+                        "y": 214.7486114501953,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -90.00496673583984
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 78,
+                "length": 2.697539263021346,
+                "opendriveid": {
+                    "junction_id": 188,
+                    "lane_id": -1,
+                    "road_id": 216
+                },
+                "start": {
+                    "location": {
+                        "x": 52.69907760620117,
+                        "y": 191.57640075683594,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -359.97369384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 136.13259887695312,
+                        "y": 216.63577270507812,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -89.9419174194336
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 79,
+                "length": 3.9274987553772167,
+                "opendriveid": {
+                    "junction_id": 298,
+                    "lane_id": -1,
+                    "road_id": 322
+                },
+                "start": {
+                    "location": {
+                        "x": 145.0990753173828,
+                        "y": 191.61874389648438,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.02626265585422516
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 132.13409423828125,
+                        "y": 215.15721130371094,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 90.0580825805664
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 80,
+                "length": 15.020758506336097,
+                "opendriveid": {
+                    "junction_id": 132,
+                    "lane_id": 1,
+                    "road_id": 148
+                },
+                "start": {
+                    "location": {
+                        "x": 142.97879028320312,
+                        "y": 240.9303741455078,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -359.96514892578125
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 132.13417053222656,
+                        "y": 215.08567810058594,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 90.0580825805664
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 81,
+                "length": 15.092287714750825,
+                "opendriveid": {
+                    "junction_id": 132,
+                    "lane_id": 1,
+                    "road_id": 142
+                },
+                "start": {
+                    "location": {
+                        "x": 124.9812240600586,
+                        "y": 236.91944885253906,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -179.96517944335938
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 74.12361145019531,
+                        "y": 236.88856506347656,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96519470214844
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 82,
+                "length": 31.455247580475802,
+                "opendriveid": {
+                    "junction_id": 76,
+                    "lane_id": -1,
+                    "road_id": 118
+                },
+                "start": {
+                    "location": {
+                        "x": 45.853309631347656,
+                        "y": 227.58984375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -450.00494384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 189.68077087402344,
+                        "y": 165.70697021484375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98705291748047
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 83,
+                "length": 15.38348493335523,
+                "opendriveid": {
+                    "junction_id": 242,
+                    "lane_id": 1,
+                    "road_id": 245
+                },
+                "start": {
+                    "location": {
+                        "x": 182.5408935546875,
+                        "y": 187.6359100341797,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -179.97369384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 157.76077270507812,
+                        "y": 236.93936157226562,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96519470214844
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 84,
+                "length": 9.980922408636008,
+                "opendriveid": {
+                    "junction_id": 132,
+                    "lane_id": -1,
+                    "road_id": 157
+                },
+                "start": {
+                    "location": {
+                        "x": 136.11888122558594,
+                        "y": 230.18203735351562,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -449.9419250488281
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 71.78668975830078,
+                        "y": 236.88714599609375,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -179.96519470214844
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 85,
+                "length": 36.12909103320801,
+                "opendriveid": {
+                    "junction_id": 76,
+                    "lane_id": -1,
+                    "road_id": 99
+                },
+                "start": {
+                    "location": {
+                        "x": 41.85507583618164,
+                        "y": 247.90017700195312,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": -270.00494384765625
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 189.68017578125,
+                        "y": 163.0904541015625,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 89.98705291748047
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 86,
+                "length": 17.999999999999986,
+                "opendriveid": {
+                    "junction_id": 242,
+                    "lane_id": 1,
+                    "road_id": 277
+                },
+                "start": {
+                    "location": {
+                        "x": 189.68832397460938,
+                        "y": 199.0904541015625,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -270.0129089355469
+                    }
+                }
+            },
+            {
+                "end": {
+                    "location": {
+                        "x": 67.24176788330078,
+                        "y": 302.53631591796875,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": 180.01942443847656
+                    }
+                },
+                "have_left": false,
+                "have_right": false,
+                "id": 87,
+                "length": 14.581103310691105,
+                "opendriveid": {
+                    "junction_id": 349,
+                    "lane_id": 1,
+                    "road_id": 358
+                },
+                "start": {
+                    "location": {
+                        "x": 45.859249114990234,
+                        "y": 295.9598083496094,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "pitch": 360.0,
+                        "roll": 0.0,
+                        "yaw": -90.00494384765625
+                    }
+                }
+            }
+        ]
+    },
+    "meta_map": {
+        "adjacency": [
+            [
+                {
+                    "id": 242,
+                    "ids": [
+                        1,
+                        16,
+                        12,
+                        3,
+                        15
+                    ],
+                    "length": 335.9728365411572
+                },
+                {
+                    "id": 188,
+                    "ids": [
+                        4
+                    ],
+                    "length": 31.299999999999994
+                },
+                {
+                    "id": 349,
+                    "ids": [
+                        0,
+                        2,
+                        18
+                    ],
+                    "length": 141.71020605720892
+                }
+            ],
+            [
+                {
+                    "id": 242,
+                    "ids": [
+                        6
+                    ],
+                    "length": 37.44
+                },
+                {
+                    "id": 188,
+                    "ids": [
+                        5
+                    ],
+                    "length": 70.47
+                },
+                {
+                    "id": 132,
+                    "ids": [
+                        9
+                    ],
+                    "length": 31.009999999999998
+                }
+            ],
+            [
+                {
+                    "id": 132,
+                    "ids": [
+                        10
+                    ],
+                    "length": 39.540000000000006
+                },
+                {
+                    "id": 242,
+                    "ids": [
+                        14
+                    ],
+                    "length": 31.259999999999987
+                },
+                {
+                    "id": 349,
+                    "ids": [
+                        13,
+                        17,
+                        19
+                    ],
+                    "length": 190.73609284961506
+                }
+            ],
+            [
+                {
+                    "id": 400,
+                    "ids": [
+                        4
+                    ],
+                    "length": 31.290000000000003
+                },
+                {
+                    "id": 76,
+                    "ids": [
+                        8
+                    ],
+                    "length": 28.37
+                },
+                {
+                    "id": 298,
+                    "ids": [
+                        5
+                    ],
+                    "length": 70.48
+                }
+            ],
+            [
+                {
+                    "id": 76,
+                    "ids": [
+                        7
+                    ],
+                    "length": 48.06
+                },
+                {
+                    "id": 400,
+                    "ids": [
+                        18,
+                        2,
+                        0
+                    ],
+                    "length": 141.72020605720894
+                },
+                {
+                    "id": 20,
+                    "ids": [
+                        19,
+                        17,
+                        13
+                    ],
+                    "length": 190.74609284961505
+                }
+            ],
+            [
+                {
+                    "id": 298,
+                    "ids": [
+                        6
+                    ],
+                    "length": 37.43
+                },
+                {
+                    "id": 20,
+                    "ids": [
+                        14
+                    ],
+                    "length": 31.249999999999996
+                },
+                {
+                    "id": 400,
+                    "ids": [
+                        15,
+                        3,
+                        12,
+                        16,
+                        1
+                    ],
+                    "length": 335.96283654115723
+                }
+            ],
+            [
+                {
+                    "id": 20,
+                    "ids": [
+                        10
+                    ],
+                    "length": 39.53000000000001
+                },
+                {
+                    "id": 76,
+                    "ids": [
+                        11
+                    ],
+                    "length": 70.26000000000002
+                },
+                {
+                    "id": 298,
+                    "ids": [
+                        9
+                    ],
+                    "length": 31.019999999999992
+                }
+            ],
+            [
+                {
+                    "id": 132,
+                    "ids": [
+                        11
+                    ],
+                    "length": 70.25000000000001
+                },
+                {
+                    "id": 188,
+                    "ids": [
+                        8
+                    ],
+                    "length": 28.379999999999992
+                },
+                {
+                    "id": 349,
+                    "ids": [
+                        7
+                    ],
+                    "length": 48.050000000000004
+                }
+            ]
+        ],
+        "directed": true,
+        "graph": [],
+        "multigraph": false,
+        "nodes": [
+            {
+                "id": 400,
+                "neighbor_edge": [
+                    0,
+                    1,
+                    4
+                ],
+                "obj": 0,
+                "x_axis": -4.176389217376709,
+                "y_axis": 190.2401123046875
+            },
+            {
+                "id": 298,
+                "neighbor_edge": [
+                    9,
+                    5,
+                    6
+                ],
+                "obj": 0,
+                "x_axis": 134.13998413085938,
+                "y_axis": 191.237548828125
+            },
+            {
+                "id": 20,
+                "neighbor_edge": [
+                    10,
+                    13,
+                    14
+                ],
+                "obj": 0,
+                "x_axis": 190.25782775878906,
+                "y_axis": 239.34994506835938
+            },
+            {
+                "id": 188,
+                "neighbor_edge": [
+                    8,
+                    4,
+                    5
+                ],
+                "obj": 0,
+                "x_axis": 43.69999313354492,
+                "y_axis": 191.2393035888672
+            },
+            {
+                "id": 349,
+                "neighbor_edge": [
+                    18,
+                    19,
+                    7
+                ],
+                "obj": 0,
+                "x_axis": 43.658966064453125,
+                "y_axis": 303.39959716796875
+            },
+            {
+                "id": 242,
+                "neighbor_edge": [
+                    15,
+                    6,
+                    14
+                ],
+                "obj": 0,
+                "x_axis": 190.26271057128906,
+                "y_axis": 190.08995056152344
+            },
+            {
+                "id": 132,
+                "neighbor_edge": [
+                    9,
+                    10,
+                    11
+                ],
+                "obj": 0,
+                "x_axis": 133.98001098632812,
+                "y_axis": 237.70199584960938
+            },
+            {
+                "id": 76,
+                "neighbor_edge": [
+                    8,
+                    11,
+                    7
+                ],
+                "obj": 0,
+                "x_axis": 46.13858413696289,
+                "y_axis": 237.74501037597656
+            }
+        ]
+    },
+    "num_streets": 8,
+    "streets": {
+        "junction_id": [
+            [],
+            [
+                400,
+                188,
+                298,
+                242
+            ],
+            [
+                76,
+                132,
+                20
+            ],
+            [
+                349
+            ],
+            [
+                400
+            ],
+            [
+                188,
+                76,
+                349
+            ],
+            [
+                298,
+                132
+            ],
+            [
+                24,
+                20
+            ]
+        ],
+        "road_id": [
+            [
+                16,
+                12,
+                3
+            ],
+            [
+                4,
+                5,
+                6
+            ],
+            [
+                11,
+                10
+            ],
+            [
+                2,
+                18,
+                19,
+                17
+            ],
+            [
+                16,
+                1,
+                0,
+                2
+            ],
+            [
+                8,
+                7
+            ],
+            [
+                9
+            ],
+            [
+                298,
+                132
+            ],
+            [
+                3,
+                15,
+                14,
+                13
+            ]
+        ]
+    }
+}
